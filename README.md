@@ -31,21 +31,24 @@ An interactive tool built with **JavaScript** to visualize sorting algorithms.
 
 ---
 
-## 📊 Contribution Graph
-
-![Contribution Graph](https://github.com/abhish-akp/abhish-akp/raw/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🛠️ Skills & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-[[React]].(https://github.com/user-attachments/assets/a1f44e44-01fe-44f9-b0d5-aa7b7001c49b)
+[React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
+
+### 📚 Learning Resources
+- [React Official Documentation](https://reactjs.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Tailwind CSS Docs](https://tailwindcss.com/docs)
 
 ## 📫 Connect with Me
 
