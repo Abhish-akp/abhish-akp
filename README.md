@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abhishek Kumar Prajapati!
+# Hi there 👋, I'm Abhishek Kumar Prajapti!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhish-akp&style=flat-square&color=brightgreen)
 
@@ -6,19 +6,12 @@ I’m a **Software Engineer** passionate about building scalable applications, e
 
 ---
 
-## 🔥 Stats at a Glance
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhish-akp&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhish-akp&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Advanced Algorithms** and **Machine Learning**.  
 - 🛠 I’ve worked on projects like **File Integrity Monitor**, **Underwater Image Enhancement**, and **Sorting Visualizer**.  
-- 💬 Ask me about **Node.js**, **PowerShell**, and **Image Processing** techniques.  
-- 📫 How to reach me: [abhishakp@gmail.com](mailto:abhishakp@gmail.com)
+- 💬 Ask me about **React**, **Node.js**, **PowerShell**, and **Image Processing** techniques.  
+- 📫 How to reach me: [abhishakp@gmail.com](mailto:abhishakp3007@gmail.com)
 
 ---
 
@@ -50,6 +43,7 @@ An interactive tool built with **JavaScript** to visualize sorting algorithms.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+[[React]].(https://github.com/user-attachments/assets/a1f44e44-01fe-44f9-b0d5-aa7b7001c49b)
 
 ---
 
