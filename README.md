@@ -8,7 +8,7 @@ I’m a **Software Engineer** passionate about building scalable applications, e
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Advanced Algorithms** and **Machine Learning**.  
+- 🌱 I’m currently learning **Advanced Algorithms**, **MERN Stack** and **Machine Learning**.  
 - 🛠 I’ve worked on projects like **File Integrity Monitor**, **Underwater Image Enhancement**, and **Sorting Visualizer**.  
 - 💬 Ask me about **React**, **Node.js**, **PowerShell**, and **Image Processing** techniques.  
 - 📫 How to reach me: [abhishakp@gmail.com](mailto:abhishakp3007@gmail.com)
